@@ -1,5 +1,0 @@
-# testGet
-
-## biningo
-
-hello
